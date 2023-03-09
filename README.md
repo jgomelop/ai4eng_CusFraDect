@@ -3,9 +3,9 @@ Proyecto para el curso "Introducción a la inteligencia artificial para ciencias
 
 ## Miembros del grupo
 
-- Juan Pablo Gómez López, C.C. 1037665653
-- Pedro Pablo Saldarriaga Jaramillo, C.C 1000408868
-- Wilmer Mario Leiva Esteban, C.C. 1193212909
+- Juan Pablo Gómez López, C.C. ******5653
+- Pedro Pablo Saldarriaga Jaramillo, C.C ******8868
+- Wilmer Mario Leiva Esteban, C.C. ******2909
 
 ## Datos
 
