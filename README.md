@@ -1,4 +1,4 @@
-# DETECCION DE FRAUDE FINANCIERO MEDIANTE MODELOS DE APRENDIZAJE AUTOMÁTICO
+# Detección de fraude financiero mediante modelos de aprendizaje automático
 Proyecto para el curso "Introducción a la inteligencia artificial para ciencias e ingenierías" ofertado por la Universidad de Antioquia. Consta en la detección de transacciones fraudulentas mediante el uso de modelos predictivos.
 
 ## Miembros del grupo
