@@ -11,6 +11,8 @@ Proyecto para el curso "Introducción a la inteligencia artificial para ciencias
 
 Los datos del proyecto vienen de la competición de Kaggle [IEEE-CIS Fraud Detection](https://www.kaggle.com/competitions/ieee-fraud-detection/overview).
 
-[Easiest way to download kaggle data in Google Colab](https://www.kaggle.com/general/74235)
+No se necesita hacer ningún proceso adicional para visualizar los notebooks.
 
-[Kaggle API](https://github.com/Kaggle/kaggle-api)
+# Videos
+
+1. [Entrega 2](https://www.youtube.com/watch?v=2pjv-ijK7cI)
