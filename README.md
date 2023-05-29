@@ -15,3 +15,4 @@ No se necesita hacer ningún proceso adicional para visualizar los notebooks.
 # Videos
 
 1. [Entrega 2](https://www.youtube.com/watch?v=2pjv-ijK7cI)
+2. [Entrega Final](https://youtu.be/mdxpsaoddBE)
